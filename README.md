@@ -1,3 +1,3 @@
-# e_talim
+# E Talim | UzGeeks Meetup May2022 Namangan
 
-UzGeeks Meetup: E Talim Mobile Apps
+E Talim Mobile Apps
